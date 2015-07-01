@@ -1,5 +1,12 @@
 PHP API wrapper for devicehub v1 REST APIs
 
+Documentation
+============
+
+Modify config.php according to 'Development information' from your project.
+
+Check example.php for 'Sensors' and 'Actuator' and modify it according to your project.
+
 Installation
 ============
 
