@@ -5,7 +5,7 @@ Documentation
 
 Modify config.php according to 'Development information' from your project.
 
-Check example.php for 'Sensors' and 'Actuator' and modify it according to your project.
+Check example.php for 'Sensors' and 'Actuators' and modify it according to your project.
 
 Installation
 ============
