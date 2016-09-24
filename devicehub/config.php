@@ -1,7 +1,7 @@
 <?php
 
-define("PROJECT_ID", paste_your_PROJECT_ID_here);
-define("API_KEY", "paste_your_API_KEY_here");
-define("Device_UUID", "paste_your_DEVICE_UUID_here");
+define("PROJECT_ID",7974);
+define("API_KEY", "7cccf8c2-d2f8-4881-b87b-e0bbe7863463");
+define("Device_UUID", "102175");
 
 ?>
